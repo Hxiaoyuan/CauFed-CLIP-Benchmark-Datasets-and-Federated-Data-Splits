@@ -1,0 +1,1 @@
+# CauFed-CLIP-Benchmark-Datasets-and-Federated-Data-Splits
